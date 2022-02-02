@@ -1,0 +1,2 @@
+# Pedestrian-Dead-Reckoning
+This project is part of the Advanced Digital Signal Processing exam at PoliMi. The purpose of this work is to implement Pedestrian Dead Reckoning (PDR) and to get information on the motion of a smartphone held by a walking man from gyroscope and accelerometer data. In particular number of steps, step length, direction and shape of the trajectory. Then the trajectory will be estimated using a Kalman from the inertial data.
